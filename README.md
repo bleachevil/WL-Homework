@@ -118,3 +118,14 @@ if st.sidebar.button("Send Transaction"):
 ```
 get_people()
 ```
+
+# result
+
+## before transaction
+![](https://github.com/bleachevil/WL-Homework/blob/main/testing_images/1.png?raw=true)
+
+## after transaction
+![](https://github.com/bleachevil/WL-Homework/blob/main/testing_images/2.png?raw=true)
+
+## transaction hash on ganache
+![](https://github.com/bleachevil/WL-Homework/blob/main/testing_images/3.png?raw=true)
